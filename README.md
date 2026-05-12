@@ -64,6 +64,30 @@
 
 ###
 
-<p align="left">🏢 Desenvolvimento de Sistemas Corporativos<br>Criação de aplicações desktop e web para ambientes empresariais, incluindo:<br>Sistemas kiosk/totem touch screen<br>Aplicações para construção civil<br>Interfaces modernas e responsivas<br>Integração com APIs e ERPs<br><br>📊 Business Intelligence & Dados<br>Desenvolvimento de dashboards e análises utilizando Power BI com dados do TOTVS Protheus:<br>Pedidos de compra<br>Solicitações de compra (SC)<br>Indicadores operacionais<br>Visualizações estratégicas</p>
+<ul align="left">
+  <li>
+    🏢 <strong>Desenvolvimento de Sistemas Corporativos</strong>
+    <ul>
+      <li>Criação de aplicações desktop e web para ambientes empresariais</li>
+      <li>Sistemas kiosk/totem touch screen</li>
+      <li>Aplicações para construção civil</li>
+      <li>Interfaces modernas e responsivas</li>
+      <li>Integração com APIs e ERPs</li>
+    </ul>
+  </li>
+
+  <br>
+
+  <li>
+    📊 <strong>Business Intelligence & Dados</strong>
+    <ul>
+      <li>Desenvolvimento de dashboards e análises utilizando Power BI com dados do TOTVS Protheus</li>
+      <li>Pedidos de compra</li>
+      <li>Solicitações de compra (SC)</li>
+      <li>Indicadores operacionais</li>
+      <li>Visualizações estratégicas</li>
+    </ul>
+  </li>
+</ul>
 
 ###
