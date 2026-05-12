@@ -1,33 +1,68 @@
-# Olá, eu sou o Igor Parizi 👋
+<h1 align="left">Olá, eu sou o Igor Parizi 👋</h1>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** com sólida experiência prática no setor de **Construção Civil**. Meu objetivo é unir o conhecimento de canteiro e escritório técnico com a tecnologia para criar soluções de software inteligentes e eficientes.
+###
 
-## 🚀 Sobre Mim
+<p align="left">Desenvolvedor Full Stack apaixonado por tecnologia, automação e criação de soluções que unem performance, usabilidade e escalabilidade. Atualmente atuo com desenvolvimento de sistemas, dashboards analíticos e aplicações desktop/web, com foco em experiência do usuário e eficiência operacional.<br><br>Tenho experiência com desenvolvimento de aplicações utilizando React, Electron, Node.js, Python e integração com bancos de dados e ERPs como TOTVS Protheus. Também trabalho com criação de dashboards no Power BI, automação de processos e projetos voltados para ambientes corporativos e kiosks/totens interativos.</p>
 
-- 💻 **Dev em Formação:** Atualmente cursando ADS e focado em dominar o ecossistema Python.
-- 🏗️ **Experiência no Setor:** Vivência real em empresas de construção civil, o que me dá uma visão privilegiada sobre as dores e necessidades tecnológicas do mercado de engenharia.
-- 🛠️ **Projeto em Destaque:** Desenvolvendo um software em Python (Tkinter + SQLite) focado na automação de propostas e processos para diversas áreas.
+###
 
-## 🛠️ Tecnologias e Ferramentas
+<h2 align="left">🚀 Sobre Mim</h2>
 
-### 💻 Desenvolvimento de Software
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+###
 
-### 🏗️ Domínio de Negócio (Construção Civil)
-![Gestão de Projetos](https://img.shields.io/badge/Gestão%20de%20Projetos-00549F?style=for-the-badge)
+<p align="left">💻 Apaixonado por tecnologia e desenvolvimento<br>🚀 Sempre buscando aprender novas tecnologias<br>📚 Interesse em arquitetura de software e sistemas escaláveis<br>🎯 Foco em criar soluções úteis e intuitivas<br>🐺 Criativo em projetos visuais e identidade de marca</p>
 
----
+###
 
-## 🔗 Vamos conversar?
+<h2 align="left">Tecnologias e Ferramentas</h2>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/igorparizi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igorparizi" height="30" width="40" /></a>
-<a href="https://github.com/pariziigor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="pariziigor" height="30" width="40" /></a>
-</p>
+###
 
----
-*“Construindo o futuro, um commit de cada vez.”*
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+</div>
 
----
+###
+
+<h2 align="left">Estatísticas</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/p/p/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/p/p/languages-output/languages.svg" height="146" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">💼 Experiência</h2>
+
+###
+
+<p align="left">🏢 Desenvolvimento de Sistemas Corporativos<br>Criação de aplicações desktop e web para ambientes empresariais, incluindo:<br>Sistemas kiosk/totem touch screen<br>Aplicações para construção civil<br>Interfaces modernas e responsivas<br>Integração com APIs e ERPs<br><br>📊 Business Intelligence & Dados<br>Desenvolvimento de dashboards e análises utilizando Power BI com dados do TOTVS Protheus:<br>Pedidos de compra<br>Solicitações de compra (SC)<br>Indicadores operacionais<br>Visualizações estratégicas</p>
+
+###
