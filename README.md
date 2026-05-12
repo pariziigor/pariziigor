@@ -53,7 +53,7 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/p/p/stats-output/stats.svg" height="150" alt="stats graph"  />
+  ![Top Languages](https://vani-stats.vercel.app/api?username=pariziigor&theme=tokyonight)
   <img src="https://raw.githubusercontent.com/p/p/languages-output/languages.svg" height="146" alt="languages graph"  />
 </div>
 
