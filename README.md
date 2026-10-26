@@ -1,87 +1,98 @@
-<h1 align="left">Olá, eu sou o Igor Parizi 👋</h1>
+ <h1 align="left">Olá, eu sou o Igor Parizi 👋</h1>
 
-###
+<p align="left">
+  Desenvolvedor Full Stack Júnior, estudante de Análise e Desenvolvimento de Sistemas no IFSP São Carlos. Atuo no desenvolvimento de sistemas corporativos e na automação de processos, transformando necessidades do negócio em soluções tecnológicas que melhoram a eficiência operacional.
+  <br><br>
+  Atualmente, trabalho na <strong>Aulevi</strong>, desenvolvendo o ecossistema ALV e aplicações voltadas à gestão comercial e operacional, com foco em integrações, organização de processos e experiência do usuário. Também tenho interesse em dados, Business Intelligence e desenvolvimento de ferramentas que conectam tecnologia às necessidades reais da empresa.
+</p>
 
-<p align="left">Desenvolvedor Full Stack apaixonado por tecnologia, automação e criação de soluções que unem performance, usabilidade e escalabilidade. Atualmente atuo com desenvolvimento de sistemas, dashboards analíticos e aplicações desktop/web, com foco em experiência do usuário e eficiência operacional.<br><br>Tenho experiência com desenvolvimento de aplicações utilizando React, Electron, Node.js, Python e integração com bancos de dados e ERPs como TOTVS Protheus. Também trabalho com criação de dashboards no Power BI, automação de processos e projetos voltados para ambientes corporativos e kiosks/totens interativos.</p>
+---
 
-###
+<h2 align="left">🚀 Sobre mim</h2>
 
-<h2 align="left">🚀 Sobre Mim</h2>
+<p align="left">
+  💻 Desenvolvimento de aplicações web, desktop e sistemas corporativos<br>
+  ⚙️ Automação de processos e integração entre sistemas e APIs<br>
+  📊 Dados, indicadores e Business Intelligence aplicados ao negócio<br>
+  🏗️ Desenvolvimento de soluções para gestão comercial e operacional<br>
+  🎯 Foco em usabilidade, qualidade de código e eficiência dos processos<br>
+  📚 Aprendizado contínuo em arquitetura de software e boas práticas de desenvolvimento
+</p>
 
-###
+---
 
-<p align="left">💻 Apaixonado por tecnologia e desenvolvimento<br>🚀 Sempre buscando aprender novas tecnologias<br>📚 Interesse em arquitetura de software e sistemas escaláveis<br>🎯 Foco em criar soluções úteis e intuitivas<br>🐺 Criativo em projetos visuais e identidade de marca</p>
+<h2 align="left">🛠️ Tecnologias e ferramentas</h2>
 
-###
-
-<h2 align="left">Tecnologias e Ferramentas</h2>
-
-###
+<h3>Desenvolvimento</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,python,fastapi,nodejs,electron,html,css" alt="Tecnologias de desenvolvimento" />
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
+<h3>Banco de dados e ferramentas</h3>
 
-###
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,git,github,docker,linux,figma" alt="Bancos de dados e ferramentas" />
+</div>
 
-<h2 align="left">💼 Experiência</h2>
+<h3>Dados e produtividade</h3>
 
-###
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/TOTVS%20Protheus-00599C?style=for-the-badge" alt="TOTVS Protheus" />
+</p>
 
-<ul align="left">
-  <li>
-    🏢 <strong>Desenvolvimento de Sistemas Corporativos</strong>
-    <ul>
-      <li>Criação de aplicações desktop e web para ambientes empresariais</li>
-      <li>Sistemas kiosk/totem touch screen</li>
-      <li>Aplicações para construção civil</li>
-      <li>Interfaces modernas e responsivas</li>
-      <li>Integração com APIs e ERPs</li>
-    </ul>
-  </li>
+---
 
-  <br>
+<h2 align="left">💼 Experiência profissional</h2>
 
-  <li>
-    📊 <strong>Business Intelligence & Dados</strong>
-    <ul>
-      <li>Desenvolvimento de dashboards e análises utilizando Power BI com dados do TOTVS Protheus</li>
-      <li>Pedidos de compra</li>
-      <li>Solicitações de compra (SC)</li>
-      <li>Indicadores operacionais</li>
-      <li>Visualizações estratégicas</li>
-    </ul>
-  </li>
+<h3>Desenvolvedor Full Stack Júnior | Aulevi</h3>
+
+<p align="left">
+  Desenvolvimento e evolução de sistemas internos, aplicações web e ferramentas de automação para apoiar os processos comerciais e operacionais da empresa.
+</p>
+
+<ul>
+  <li>Desenvolvimento full stack de módulos do ecossistema ALV, desde interfaces até APIs e persistência de dados.</li>
+  <li>Implementação de funcionalidades para gestão de clientes, produtos, orçamentos, pedidos e acompanhamento de processos.</li>
+  <li>Automação de rotinas e redução de atividades manuais por meio de aplicações e integrações.</li>
+  <li>Integração com APIs, bancos de dados e sistemas corporativos, incluindo o TOTVS Protheus.</li>
+  <li>Desenvolvimento de interfaces responsivas e componentes com foco em usabilidade e experiência do usuário.</li>
+  <li>Criação de dashboards, indicadores e análises para apoiar a tomada de decisão.</li>
 </ul>
 
-###
+<h3>Principais áreas de atuação</h3>
+
+<ul>
+  <li><strong>Desenvolvimento Full Stack:</strong> aplicações web e desktop, APIs, banco de dados e integrações.</li>
+  <li><strong>Automação de processos:</strong> digitalização de rotinas e desenvolvimento de ferramentas para aumentar a produtividade.</li>
+  <li><strong>Dados e Business Intelligence:</strong> dashboards no Power BI, análises em Excel e informações relacionadas a compras e operações.</li>
+  <li><strong>Sistemas corporativos:</strong> soluções para conectar fluxos comerciais, operacionais e informações empresariais.</li>
+</ul>
+
+---
+
+<h2 align="left">📌 Interesses profissionais</h2>
+
+<p align="left">
+  Desenvolvimento Full Stack • Engenharia de Software • Automação de Processos • APIs e Integrações • Business Intelligence • Engenharia de Dados • Tecnologia aplicada a negócios
+</p>
+
+---
+
+<h2 align="left">📈 Atividade no GitHub</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+    <img align="center" alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <i>Transformando desafios reais em soluções tecnológicas.</i>
+</p>
